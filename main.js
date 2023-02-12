@@ -234,6 +234,7 @@ const app = {
                 _this.nextSong();
             }
             audio.play();
+            _this.render();
         }
 
         //end khi repeat
