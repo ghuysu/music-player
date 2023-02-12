@@ -32,14 +32,14 @@ const app = {
     isRepeat: false,
     songs: [
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Can i take you home',
-                    singer: 'O.LEW',
+                    name: 'Nàng thơ',
+                    singer: 'Hoàng Dũng',
                     path: './assets/music/bai2.mp3',
                     image: './assets/img/anh2.jpeg'
                 },      
@@ -55,56 +55,44 @@ const app = {
                     image: './assets/img/anh4.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 },
                 {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
-                    path: './assets/music/bai1.mp3',
-                    image: './assets/img/anh1.jpeg'
-                },
-                {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
-                    path: './assets/music/bai1.mp3',
-                    image: './assets/img/anh1.jpeg'
-                },
-                {
-                    name: 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
-                    singer: 'O.LEW',
+                    name: 'I like you',
+                    singer: 'Post Malone',
                     path: './assets/music/bai1.mp3',
                     image: './assets/img/anh1.jpeg'
                 }
